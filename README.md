@@ -1,7 +1,7 @@
 # 🌐 NextWork Static Website Project
 
 This project demonstrates how to host a simple static website using **Amazon S3**. It includes an `index.html` file for structure and a `nextwork` folder containing images and assets used by the site.
-
+---
 <img width="861" alt="screenshot" src="https://github.com/user-attachments/assets/34eae678-ad74-487f-99b6-dcba2e730525" />
 
 ---
@@ -22,7 +22,7 @@ This project demonstrates how to host a simple static website using **Amazon S3*
 - ✅ Static website hosting on Amazon S3  
 - ✅ Custom bucket permissions and public access setup  
 - ✅ Deployment of HTML and asset files  
-- ✅ GitHub integration for version control
+
 
 ---
 
