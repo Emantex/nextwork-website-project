@@ -50,7 +50,12 @@ Once hosting and permissions are configured in S3:
 - Pushing code to GitHub  
 
 ---
+## 📄 Documentation
 
+For a detailed walkthrough of this project:  
+📄 [Download Project PDF – legendary-aws-host-a-website-on-s3.pdf](https://github.com/user-attachments/files/20934229/legendary-aws-host-a-website-on-s3.1.pdf)
+
+---
 ## 👤 Author
 
 **Emmanuel Omanoye**  
