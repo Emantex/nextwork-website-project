@@ -1,6 +1,6 @@
 # 🌐 NextWork Static Website Project
 
-This project demonstrates how to host a simple static website using **Amazon S3**. It includes an `index.html` file for structure and a `nextwork-report` folder containing images and assets used by the site.
+This project demonstrates how to host a simple static website using **Amazon S3**. It includes an `index.html` file for structure and a `nextwork` folder containing images and assets used by the site.
 
 ---
 
@@ -9,7 +9,7 @@ This project demonstrates how to host a simple static website using **Amazon S3*
 - **Objective:** Host a static website on AWS S3 and make it publicly accessible.
 - **Tools Used:**  
   - Amazon S3  
-  - GitHub Desktop  
+  - GitHub  
   - HTML & Image Assets  
 - **Region:** Europe (Stockholm) – chosen for performance due to Africa region limitations.
 
@@ -34,7 +34,7 @@ This project demonstrates how to host a simple static website using **Amazon S3*
 ## 🛠 How to View the Website
 
 Once hosting and permissions are configured in S3:
-- Visit the **S3 bucket endpoint URL** (e.g., `http://bucket-name.s3-website-region.amazonaws.com`) to access the live site.
+- Visit the **S3 bucket endpoint URL** (e.g., `[http://bucket-name.s3-website-region.amazonaws.com](http://nextwork-website-project-emantex.s3-website.eu-north-1.amazonaws.com/)`) to access the live site.
 
 ---
 
@@ -44,14 +44,14 @@ Once hosting and permissions are configured in S3:
 - Understanding static website hosting  
 - Managing public access permissions and bucket policies  
 - Fixing 403 Forbidden errors  
-- Pushing code to GitHub using GitHub Desktop  
+- Pushing code to GitHub 
 
 ---
 
 ## 👤 Author
 
 **Emmanuel Omanoye**  
-Project completed as part of a hands-on learning experience with NextWork.
+Project completed as part of a hands-on learning experience with `NextWork`.
 
 ---
 
